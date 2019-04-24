@@ -14,7 +14,7 @@ class Shoe
   end
 
   def brand
-      BRANDS[0]
+      BRANDS.size
     end
 
 end
